@@ -1,19 +1,10 @@
 # Rxinns的视频博物馆（建设中）
 本仓库创建于2021-5-20。
 
-用于收录某些“奇怪的视频”。
-
-以下链接可以长按下载（文件夹除外）。
-
 # 如果您患有光敏性癫痫或心脏病等不可遭受惊吓的疾病，请关闭本页面。
 
+本仓库用于收录某些“奇怪的值得收藏的视频”。
 
-目前已有：
+点击上面的“view code”以查看文件。
 
-[sm666](https://github.com/RxinnotRstar/Rxinns-video-museum/blob/main/sm666.mp4)
-
-[【文件夹】AV10492系列](https://github.com/RxinnotRstar/Rxinns-video-museum/tree/main/AV10492)
-
-[AV10388 武器A（未上传）]()
-
-[【文件夹】野獣先輩](https://github.com/RxinnotRstar/Rxinns-video-museum/tree/main/%E9%87%8E%E7%8D%A3%E5%85%88%E8%BC%A9)
+如果打不开文件请使用VPN。
