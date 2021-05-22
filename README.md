@@ -15,3 +15,5 @@
 [【文件夹】AV10492系列](https://github.com/RxinnotRstar/Rxinns-video-museum/tree/main/AV10492)
 
 [AV10388 武器A（未上传）]()
+
+[【文件夹】野獣先輩](https://github.com/RxinnotRstar/Rxinns-video-museum/tree/main/%E9%87%8E%E7%8D%A3%E5%85%88%E8%BC%A9)
