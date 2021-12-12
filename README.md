@@ -17,7 +17,11 @@
 
 ◆为什么我打不开文件？
 
-github 已被部分屏蔽，中国大陆来访者可尝试使用VPN。
+github 已被部分屏蔽，中国大陆来访者可尝试使用VPN。若只有浏览需求，可以使用下面的镜像。镜像不保证稳定可用， 并且不能登录。
+
+*警告: 请勿在镜像站尝试登录您的账号，以免您的账号被盗!!!*
+
+https://hub.fastgit.org/RxinnotRstar/Rxinns-video-museum
 
 
 
