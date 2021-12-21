@@ -39,4 +39,4 @@ https://hub.fastgit.org/RxinnotRstar/Rxinns-video-museum
 
 ◆我不会用这些功能，怎么办？
 
-您可以在哔哩哔哩上用私信联系我，或者求助您身边的朋友/群友，或者发邮件到Rxinns@qq.com（用邮箱虽然稳定，但是我可能不能及时回复，因为我很少看邮件┐(´-｀)┌）
+您可以在[哔哩哔哩](https://space.bilibili.com/345904110)上用私信联系我，或者求助您身边的朋友/群友，或者发邮件到Rxinns@qq.com（用邮箱虽然稳定，但是我可能不能及时回复，因为我很少看邮件┐(´-｀)┌）
